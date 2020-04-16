@@ -216,28 +216,25 @@ anti_war_demonstration = {
 
 	effect = {
 		random_list = {
-			20 = {
+			25 = {
 				controller = {
 					add_war_support = -0.001
 				}
 			}
-			10 = {
+			25 = {
 				damage_building = {
 					type = industrial_complex
 					damage = 0.1
 				}
 			}
-			10 = {
-				
-			}
-			10 = {
+			25 = {
 				damage_building = {
 					type = office_park
 					damage = 0.1
 				}
 			}
-			50 = {
-				add_manpower = -100
+			25 = {
+				
 			}
 		}
 	}
